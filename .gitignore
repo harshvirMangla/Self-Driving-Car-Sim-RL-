@@ -1,0 +1,19 @@
+Python
+
+pycache/ *.py[cod] *.pyc
+
+Output files
+
+self_driving_car_model.h5 training_stats.json training_results.png
+
+Virtual environments
+
+venv/ .env/ env/
+
+IDE files
+
+.idea/ .vscode/
+
+macOS
+
+.DS_Store
